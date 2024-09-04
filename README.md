@@ -15,4 +15,4 @@
 
 # Домашнее задание
 
-[0] [Контест на Torch](https://contest.yandex.ru/contest/67535/enter) \
+[0] [Контест на Python](https://contest.yandex.ru/contest/67535/enter)
