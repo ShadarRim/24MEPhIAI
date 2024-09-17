@@ -15,7 +15,9 @@
 [3] [NumPy](https://github.com/ShadarRim/24MEPhIAI/blob/main/02_Numpy.ipynb)
 
 # Дополнительный материалы
-[0] [Пара фишек Python, о которых не сказали ранее](https://github.com/ShadarRim/24MEPhIAI/blob/main/a00_%D0%9F%D0%B0%D1%80%D0%B0_%D1%84%D0%B8%D1%88%D0%B5%D0%BA.ipynb)
+[0] [Пара фишек Python, о которых не сказали ранее](https://github.com/ShadarRim/24MEPhIAI/blob/main/a00_%D0%9F%D0%B0%D1%80%D0%B0_%D1%84%D0%B8%D1%88%D0%B5%D0%BA.ipynb) \
+[1] [Работа с файлами](https://github.com/ShadarRim/24MEPhIAI/blob/main/a01_%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0_%D1%81_%D1%84%D0%B0%D0%B9%D0%BB%D0%B0%D0%BC%D0%B8.ipynb)
+
 
 # Самостоятельная работа
 
