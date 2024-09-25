@@ -17,7 +17,9 @@
 # Дополнительный материалы
 [0] [Пара фишек Python, о которых не сказали ранее](https://github.com/ShadarRim/24MEPhIAI/blob/main/a00_%D0%9F%D0%B0%D1%80%D0%B0_%D1%84%D0%B8%D1%88%D0%B5%D0%BA.ipynb) \
 [1] [Работа с файлами](https://github.com/ShadarRim/24MEPhIAI/blob/main/a01_%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0_%D1%81_%D1%84%D0%B0%D0%B9%D0%BB%D0%B0%D0%BC%D0%B8.ipynb) \
-[2] [Решение задачи "Ужин у лесника"](https://ntcontest.ru/docs/7.%20%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B9%20%D0%98%D0%91%2023-24.pdf)
+[2] [Решение задачи "Ужин у лесника"](https://ntcontest.ru/docs/7.%20%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B9%20%D0%98%D0%91%2023-24.pdf) \
+[3] [Команды и ядро ноутбка](https://github.com/ShadarRim/24MEPhIAI/blob/main/a03_%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B_%D0%B8_%D1%8F%D0%B4%D1%80%D0%BE_%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA%D0%B0.ipynb) \
+[4] [math](https://github.com/ShadarRim/24MEPhIAI/blob/main/a02_%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C_math.ipynb)
 
 # Самостоятельная работа
 
