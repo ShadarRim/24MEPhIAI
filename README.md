@@ -21,9 +21,12 @@
 [9] [Гипотезы и ошибки](https://github.com/ShadarRim/24MEPhIAI/blob/main/08_%D0%93%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%B7%D1%8B%20%D0%B8%20%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B8.ipynb) \
 [10] [Проверки и интервалы](https://github.com/ShadarRim/24MEPhIAI/blob/main/09_%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B8.ipynb) \
 [11] [Условная вероятность](https://github.com/ShadarRim/24MEPhIAI/blob/main/10_%D0%A3%D1%81%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0%D1%8F%20%D0%B2%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C.ipynb) \
-[12] [Наивный Баес](https://github.com/ShadarRim/24MEPhIAI/blob/main/11_%D0%9D%D0%B0%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9_%D0%B1%D0%B0%D0%B5%D1%81.ipynb) \
-[13] []() \
-[14] []()
+[12] [Наивный Баес](https://github.com/ShadarRim/24MEPhIAI/blob/main/11_%D0%9D%D0%B0%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9_%D0%B1%D0%B0%D0%B5%D1%81.ipynb) 
+
+# Модуль №2. Основы машинного обучения
+[13] [Градиентный спуск](https://github.com/ShadarRim/24MEPhIAI/blob/main/13_%D0%93%D1%80%D0%B0%D0%B4%D0%B8%D0%B5%D0%BD%D1%82%D0%BD%D1%8B%D0%B9%20%D1%81%D0%BF%D1%83%D1%81%D0%BA.ipynb) \
+[14] [Данные для собственной регрессии](https://github.com/ShadarRim/24MEPhIAI/blob/main/14_salary_data.csv) \
+[15] [Шаблон для создания метода регрессии градиентным спуском](https://github.com/ShadarRim/24MEPhIAI/blob/main/15_LinReg_scratch.ipynb)
 
 # Дополнительный материалы
 [0] [Пара фишек Python, о которых не сказали ранее](https://github.com/ShadarRim/24MEPhIAI/blob/main/a00_%D0%9F%D0%B0%D1%80%D0%B0_%D1%84%D0%B8%D1%88%D0%B5%D0%BA.ipynb) \
