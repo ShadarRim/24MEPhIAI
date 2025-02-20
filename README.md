@@ -69,9 +69,11 @@
 [10] ДЗ №8. Реализовать дерево решения самому. \
 [11] [ДЗ №9](https://www.kaggle.com/competitions/signal-types) 
 
-# Домашнее задание
+# Домашнее задание 2 семестр
 
-[0] [Контест на Torch](https://contest.yandex.ru/contest/74863/enter)
+[0] [Контест на Torch](https://contest.yandex.ru/contest/74863/enter) \
+[1] [Решить с помощью нейронной сети](https://www.kaggle.com/t/c2ecd28e9cf0411ba28a5688810c09a5) \
+[2] [Решить с помощью нейронной сети №2](https://www.kaggle.com/competitions/passenger-satisfaction-2024/overview)
 
 # Нобелевская неделя
 
