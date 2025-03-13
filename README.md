@@ -74,6 +74,8 @@
 [0] [Контест на Torch](https://contest.yandex.ru/contest/74863/enter) \
 [1] [Решить с помощью нейронной сети](https://www.kaggle.com/t/c2ecd28e9cf0411ba28a5688810c09a5) \
 [2] [Решить с помощью нейронной сети №2](https://www.kaggle.com/competitions/passenger-satisfaction-2024/overview)
+[3] LeNet and MNIST
+[4] [Классификация бабочек](https://www.kaggle.com/competitions/butterflies-classification/overview)
 
 # Нобелевская неделя
 
